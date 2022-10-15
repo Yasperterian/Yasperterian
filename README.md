@@ -6,7 +6,7 @@
 ## :sassy_man:  About me
 - :school: I am a student of Telecomunication Engineer at National University of San Agutin
 - :technologist: I love using Software as a solution for every `Problem`
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/14AoGLtj2Hxf0BXu4EJ7FQdgP2Tmuh4R1/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1EjmofLXIXlRo-aYt3FlovTJRXBa-Awb0/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
